@@ -122,6 +122,8 @@ girl.age=18
 |@Bean |主要被用在方法上，来显式声明要用生成的类|
 |@Profiles | Spring Profiles提供了一种隔离应用程序配置的方式，并让这些配置只能在特定的环境下生效|
 
+<br>
+ 
 
 **使用一个方便进行http请求的插件 postman **
 
